@@ -1,2 +1,2 @@
-# Image-Translation-Brownian-Bridge
-Image to Image Translation using Brownian Bridge
+# Diffusion-Models-from-Scratch
+Implementing diffusion models from scratch in PyTorch
